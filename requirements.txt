@@ -1,0 +1,23 @@
+yfinance
+pandas
+numpy
+scipy
+PyPortfolioOpt
+shap
+fastapi
+uvicorn
+streamlit
+beautifulsoup4
+requests
+transformers
+torch
+langgraph
+langchain
+langchain-openai
+langchain-anthropic
+chromadb
+plotly
+scikit-learn
+python-dotenv
+pandas-datareader
+# TA-Lib fallback implemented in code, but listed for completeness
